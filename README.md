@@ -27,8 +27,11 @@ This Secure Coding training will equip you with the skills you need to be able t
 Schedule:
 
 Assessment Kick Off : September 4th 2023
+
 Assessment Period : From September 4th 2023 to September 26th 2023
+
 Training Kick Off : September 27th 2023
+
 Live Sessions : From October 2nd 2023 to December 6th 2023
 
 Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:30 PM CST
