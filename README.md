@@ -75,7 +75,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
 
-#TRAINING SCHEDULE/AGENDA
+# TRAINING SCHEDULE
 
 **Opening session / Introduction**
 - Date : Wednesday September 27th 2023
