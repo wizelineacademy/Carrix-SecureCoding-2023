@@ -56,7 +56,10 @@ Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:3
 
 In this calendar you will see the sessions that are scheduled during this training:
 
-
+<img width="1224" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/f009241c-4013-4c20-9f18-d9034e05f442">
+<img width="1227" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/ca3bff84-d695-4644-8299-0a4d425e2091">
+<img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
+<img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab"> 
 
 # IV - Training Agenda
 
