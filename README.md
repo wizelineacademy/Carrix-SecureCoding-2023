@@ -68,7 +68,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 **Session Feedback**
 
-At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
+At the end of each live session, please fill our [Session Survey] to help us make your learning experience better.
 
 # TRAINING SCHEDULE
 
@@ -238,13 +238,13 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 At any point of the training, you can request a 1:1 with an expert from Wizeline. Here is how:
 
-- Click on this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to access a google form to schedule a session
+- Click on this [LINK] to access a form to schedule your mentoring session
 - Fill in all the fields with your information.
 - The DSA staff will review your request.
-- The DSA staff will setup the mentoring session based on your info and the mentor’s availability and will send you the MS Teams Meet link for the meeting.
+- The DSA staff will setup the mentoring session based on your info and the mentor’s availability
 - If there are difficulties with schedule and availability, DSA staff will reach out to you to sort it out.
 - Join the call in the date and time scheduled
-- Once the meeting finishes, fill in [THIS](https://docs.google.com/forms/d/e/1FAIpQLScO3FTp4Xlf8mtPf3Q93r-wm4m6OJNS24SA8XjCCtmYXArx0g/viewform) feedback form at the end of your tutorial
+- Once the meeting finishes, fill in [THIS] feedback form at the end of your tutorial
 
 Important:
 
