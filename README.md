@@ -61,8 +61,7 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 **Syllabus**
 
-You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/12346651/DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
-
+You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/12346965/DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
 **Agenda Breakdown**
 
 Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
