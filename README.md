@@ -75,6 +75,8 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
 
+#TRAINING SCHEDULE/AGENDA
+
 **Opening session / Introduction**
 - Date : Wednesday September 27th 2023
 - Instructor : DSA
@@ -82,7 +84,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 - [PDF / Material]
 - [Session Recording]
 
-**MODULE 1**
+# MODULE 1
 
 **WEEK 1**
 
@@ -116,7 +118,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 - [PDF / Material]
 - [Session Recording]
 
-**MODULE 2**
+# MODULE 2
 
 **WEEK 3**
 
@@ -150,7 +152,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 - [PDF / Material]
 - [Session Recording]
 
-**MODULE 3**
+# MODULE 3
 
 **WEEK 5**
 
