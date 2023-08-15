@@ -115,13 +115,13 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 5 : Secure coding principles**
 - *Date : Monday October 16th 2023*
-- *Instructor : Mauricio Sotelo*
+- *Instructor : Miguel Angel Martínez Reyes*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 6 : Input validation**
 - *Date : Wednesday October 18th 2023*
-- *Instructor : Mauricio Sotelo*
+- *Instructor : Miguel Angel Martínez Reyes*
 - [PDF / Material]
 - [Session Recording]
 
@@ -129,13 +129,13 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 7 : Authentication and authorization**
 - *Date : Monday October 23th 2023*
-- *Instructor : Mauricio Sotelo*
+- *Instructor : Miguel Angel Martínez Reyes*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 8 : Data protection standards**
 - *Date : Wednesday October 25th 2023*
-- *Instructor : Mauricio Sotelo*
+- *Instructor : Miguel Angel Martínez Reyes*
 - [PDF / Material]
 - [Session Recording]
 
@@ -145,7 +145,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 9 : Cryptography**
 - *Date : Monday October 30th 2023*
-- *Instructor : Mauricio Sotelo*
+- *Instructor : Arturo Garcia Martin del Campo*
 - [PDF / Material]
 - [Session Recording]
 
@@ -155,9 +155,85 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 - [PDF / Material]
 - [Session Recording]
 
+**WEEK 6**
+
+**Session 11 : Vulnerability categorization**
+- *Date : Monday November 6th 2023*
+- *Instructor : Mauricio Sotelo*
+- [PDF / Material]
+- [Session Recording]
+
+**Session 12 : Identification of vulnerabilities**
+- *Date : Wednesday November 8th 2023*
+- *Instructor : Guillermo Esguerra Bautista*
+- [PDF / Material]
+- [Session Recording]
+
+**WEEK 7**
+
+**Session 13 : Mitigation and remediation of vulnerabilities**
+- *Date : Monday November 13th 2023*
+- *Instructor : Guillermo Esguerra Bautista*
+- [PDF / Material]
+- [Session Recording]
+
+# MODULE 4
+
+**WEEK 7**
+
+**Session 14 : Strengths & weaknesses in current tech stack (audit)**
+- *Date : Wednesday November 15th 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+**WEEK 8**
+
+**Session 15 : Documenting and diagramming**
+- *Date : Tuesday November 21st 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+**Session 16 : Recommending improvements**
+- *Date : Wednesday November 22nd 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+# MODULE 5
+
+**WEEK 9**
+
+**Session 17 : Optimizing development practices**
+- *Date : Monday November 27th 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+**Session 18 : Evaluating development environment**
+- *Date : Wednesday November 29th 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+**WEEK 10**
+
+**Session 19 : Agile security best practices**
+- *Date : Monday December 4th 2023*
+- *Instructor : Grethel Bello Cagnant*
+- [PDF / Material]
+- [Session Recording]
+
+**Session 20 : Capstone Project Deliverable**
+- *Date : December 6th 2023*
+- *Instructor : DSA & SMEs*
+- [PDF / Material]
+- [Session Recording]
+
 # V - Final Project (Capstone Project)
 
-✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training. You can find the document with the Capstone Project breakdown and delivery dates over [HERE](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/10013487/_Capstone.Project.Definition.-.Automation.Bootcamp.pdf)
+✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training. You can find the document with the Capstone Project breakdown and delivery dates over [HERE]
 
 # 📆 VI - Schedule Your On-Demand Mentoring Session
 
@@ -173,7 +249,7 @@ At any point of the training, you can request a 1:1 with an expert from Wizeline
 
 Important:
 
-If you can’t take the meeting, please send an email to dsa-tideworks@wizeline.com 
+If you can’t take the meeting, please send an email to dsa-carrix@wizeline.com 
 If you are running late, please send a message on Teams to let him know.
 Mentors will only wait for 10 min if no notification is given and then log of from the call.
 If you still need the session, please book another session following same procedure. 
