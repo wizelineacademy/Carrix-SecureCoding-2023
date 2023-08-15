@@ -38,7 +38,7 @@ Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:3
 
 - During online sessions it is suggested to have the camera on at all times.
 
-- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : dsa-tideworks@wizeline.com
+- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : dsa-carrix@wizeline.com
 
 **On-Demand Mentoring**
 
@@ -75,63 +75,66 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
 
+**Opening session / Introduction**
+*Date : Wednesday September 27th 2023*
+*Instructor : DSA*
+
+- [PDF / Material]
+- [Session Recording]
+
 **WEEK 1**
 
-**Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
+**Session 1 : Importance of application security**
+*Date : Monday October 2nd 2023*
+*Instructor : Mauricio Sotelo*
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%201%20:%20Introduction-Kick%20Off.md)
-- [Session Recording](https://youtu.be/UZS-glnyHUk)
+- [PDF / Material]
+- [Session Recording]
 
-**Session 2 (Thursday November 3rd 2022): Front End Automation Part 1**
+**Session 2 : Best practices in coding**
+*Date : Wednesday October 4th 2023*
+*Instructor : Mauricio Sotelo*
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%202%20:%20Front%20End%20Automation%20Part%201.md#session-2-thursday-november-3rd-2022--front-end-automation-part-1)
-- [Self-Learning Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9934324/Front.End.Automation.Part.1.Self-Learning.pdf)
-- [Session Recording](https://youtu.be/BfW8DmoorZE)
+- [PDF / Material]
+- [Session Recording]
 
-**WEEK 2**
+**Session 3 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
-**Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
-
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%203%20:%20Front%20End%20with%20Playwright%20Part%202.md)
-- [Session Recording](https://youtu.be/B2NEuGSi4Ks)
-
-**Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
-
-- [Session Recording](https://youtu.be/YwYekEeGbxQ)
+- [Session Recording]
 
 **WEEK 3**
 
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%205%20:%20Front%20End%20Automation%20Strategy.md)
-- [Session Recording](https://youtu.be/ZMuSrHhSPfo)
+- [PDF / Material]
+- [Session Recording]
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%206%20:%20Introduction%20To%20API%20Testing.md)
-- [Session Recording](https://youtu.be/bsq6kf2LEuM)
+- [PDF / Material]
+- [Session Recording]
 
 **WEEK 4**
 
 **Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%207%20:%20API%20Automation.md)
-- [Session Recording](https://youtu.be/9EyJwfD7j5o)
+- [PDF / Material]
+- [Session Recording]
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
-- [Session Recording](https://youtu.be/fy_PbP7wIIg)
+- [Session Recording]
 
 **WEEK 5**
 
 **Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%209%20:%20DevOps%20Testing.md)
-- [Session Recording](https://youtu.be/wzV-DR24N-Y)
+- [PDF / Material]
+- [Session Recording]
 
 **Session 10 (Thursday December 8th 2022): CheckPoint 3**
 
-- [Session Recording](https://youtu.be/3YIi_yksFsk)
+- [Session Recording]
 
 **WEEK 6**
 
@@ -172,4 +175,4 @@ If you still need the session, please book another session following same proced
 
 If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
-📧 Email: dsa-tideworks@wizeline.com
+📧 Email: dsa-carrix@wizeline.com
