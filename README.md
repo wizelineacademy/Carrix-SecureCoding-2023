@@ -76,77 +76,97 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
 
 **Opening session / Introduction**
-*Date : Wednesday September 27th 2023*
-*Instructor : DSA*
+- Date : Wednesday September 27th 2023
+- Instructor : DSA
 
 - [PDF / Material]
 - [Session Recording]
 
+**MODULE 1**
+
 **WEEK 1**
 
 **Session 1 : Importance of application security**
-*Date : Monday October 2nd 2023*
-*Instructor : Mauricio Sotelo*
+- Date : Monday October 2nd 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
 **Session 2 : Best practices in coding**
-*Date : Wednesday October 4th 2023*
-*Instructor : Mauricio Sotelo*
+- Date : Wednesday October 4th 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
-**Session 3 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
+**WEEK 2**
 
+**Session 3 : Secure coding practices**
+- Date : Monday October 9th 2023
+- Instructor : Mauricio Sotelo
+
+- [PDF / Material]
 - [Session Recording]
+
+**Session 4 : Software best practices**
+- Date : Wednesday October 11th 2023
+- Instructor : Mauricio Sotelo
+
+- [PDF / Material]
+- [Session Recording]
+
+**MODULE 2**
 
 **WEEK 3**
 
-**Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
+**Session 5 : Secure coding principles**
+- Date : Monday October 16th 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
-**Session 6 (Thursday November 17th 2022): Introduction to API Testing**
+**Session 6 : Input validation**
+- Date : Wednesday October 18th 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
 **WEEK 4**
 
-**Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
+**Session 7 : Authentication and authorization**
+- Date : Monday October 23th 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
-**Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
+**Session 8 : Data protection standards**
+- Date : Wednesday October 25th 2023
+- Instructor : Mauricio Sotelo
 
+- [PDF / Material]
 - [Session Recording]
+
+**MODULE 3**
 
 **WEEK 5**
 
-**Session 9 (Tuesday December 6th 2022): DevOps Testing**
+**Session 9 : Cryptography**
+- Date : Monday October 30th 2023
+- Instructor : Mauricio Sotelo
 
 - [PDF / Material]
 - [Session Recording]
 
-**Session 10 (Thursday December 8th 2022): CheckPoint 3**
+**Session 10 : Risk assessment framework**
+- Date : Wednesday November 1st 2023
+- Instructor : Mauricio Sotelo
 
+- [PDF / Material]
 - [Session Recording]
-
-**WEEK 6**
-
-**Session 11 (Tuesday December 13th 2022): CI/CD Implementations**
-
-- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%2011%20:%20CICD%20Implementation.md)
-- [Resource](https://www.simplilearn.com/tutorials/jenkins-tutorial/jenkins-installation-on-windows)
-- [Session Recording](https://youtu.be/DaD0Crk7eHA)
-
-**Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
-
-- [Capstone Project Demonstration/Delivery](https://youtu.be/c-tQU4JT4uU)
 
 # V - Final Project (Capstone Project)
 
