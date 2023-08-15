@@ -65,7 +65,7 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 **Syllabus**
 
-You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9933211/DSA-Tideworks.QA.Automation._.Syllabus._.Wizeline.pdf)
+You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE]
 
 **Agenda Breakdown**
 
