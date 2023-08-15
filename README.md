@@ -89,32 +89,28 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **WEEK 1**
 
 **Session 1 : Importance of application security**
-- Date : Monday October 2nd 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Monday October 2nd 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 2 : Best practices in coding**
-- Date : Wednesday October 4th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Wednesday October 4th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **WEEK 2**
 
 **Session 3 : Secure coding practices**
-- Date : Monday October 9th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Monday October 9th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 4 : Software best practices**
-- Date : Wednesday October 11th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Wednesday October 11th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
@@ -123,32 +119,28 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **WEEK 3**
 
 **Session 5 : Secure coding principles**
-- Date : Monday October 16th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Monday October 16th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 6 : Input validation**
-- Date : Wednesday October 18th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Wednesday October 18th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **WEEK 4**
 
 **Session 7 : Authentication and authorization**
-- Date : Monday October 23th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Monday October 23th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 8 : Data protection standards**
-- Date : Wednesday October 25th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Wednesday October 25th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
@@ -157,16 +149,14 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **WEEK 5**
 
 **Session 9 : Cryptography**
-- Date : Monday October 30th 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Monday October 30th 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
 **Session 10 : Risk assessment framework**
-- Date : Wednesday November 1st 2023
-- Instructor : Mauricio Sotelo
-
+- *Date : Wednesday November 1st 2023*
+- *Instructor : Mauricio Sotelo*
 - [PDF / Material]
 - [Session Recording]
 
