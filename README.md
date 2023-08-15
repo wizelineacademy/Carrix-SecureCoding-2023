@@ -20,21 +20,17 @@ Welcome to your Carrix Secure Coding training.
 
 This Secure Coding training will equip you with the skills you need to be able to validate and track secure coding best practices, as well as to capture and detect secure coding vulnerabilities.
 
-**Live Sessions**
+**Live Sessions Details**
 
 - They are online classes (live) taught by Wizeline engineers, the sessions last 1.5 hours each session.
 
 Schedule:
 
-- Assessment Kick Off : September 4th 2023
-
-- Assessment Period : From September 4th 2023 to September 26th 2023
-
-- Training Kick Off : September 27th 2023
-
-- Live Sessions : From October 2nd 2023 to December 6th 2023
-
-- Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:30 PM CST
+- **Assessment Kick Off : September 4th 2023**
+- **Assessment Period : From September 4th 2023 to September 26th 2023**
+- **Training Kick Off : September 27th 2023**
+- **Live Sessions : From October 2nd 2023 to December 6th 2023**
+- **Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:30 PM CST**
 
 - During online sessions it is suggested to have the camera on at all times.
 
