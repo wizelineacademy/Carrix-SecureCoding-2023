@@ -56,11 +56,7 @@ Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:3
 
 In this calendar you will see the sessions that are scheduled during this training:
 
-<img width="1094" alt="1" src="https://user-images.githubusercontent.com/115300095/199072155-228415da-0372-45a4-9ac3-0fba0ec3e199.png">
 
-<img width="1115" alt="Screen Shot 2022-10-21 at 0 26 58" src="https://user-images.githubusercontent.com/115300095/197119622-a50d7694-4a13-4efb-9cf3-abafbe3d983f.png">
-
-<img width="1047" alt="3" src="https://user-images.githubusercontent.com/115300095/199839523-3527835e-15b3-4d04-82e1-5fd1f78fc9d7.png">
 
 # IV - Training Agenda
 
