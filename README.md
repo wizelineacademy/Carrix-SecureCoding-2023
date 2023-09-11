@@ -44,6 +44,10 @@ Schedule:
 
 - This is a compilation of resources (articles, videos, audios) that we will make available to you so that you can complement your learning.
 
+- [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
+- [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
+- [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
+
 **Capstone Project**
 
 - This will be a challenge created to put into practice the knowledge acquired during the training.
