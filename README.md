@@ -1,264 +1,270 @@
-# DIGITAL SKILLS ACCELERATOR
-**Secure Coding Training for Carrix**
+# DSA-Carrix-SecureCoding-2023
 
-Table of Contents
-=================
+**Capacitación en codificación segura para Carrix**
 
-* [I - Welcome](#i---welcome)
-* [II - General Training Information](#ii---general-training-information)
-* [III - Calendar](#iii---calendar)
-* [IV - Training Agenda](#iv---training-agenda)
-* [V - Final Project (Capstone Project)](#v---final-project-capstone-project)
-* [VI - Schedule Your On-Demand Mentoring Session](#-vi---schedule-your-on-demand-mentoring-session)
-* [VII. Contact Wizeline's Digital Skills Accelerator](#vii---contact-wizelines-digital-skills-accelerator)
+Tabla de contenido
+==================
 
-# I - Welcome
+* [I - Bienvenido](#i---bienvenido)
+* [II - Información general de capacitación](#ii---información-general-de-capacitación)
+* [III - Calendario](#iii---calendario)
+* [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
+* [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
+* [VI - Programe su sesión de tutoría bajo demanda](#-vi---programe-su-sesión-de-mentoria-bajo-demanda)
+* [VII. Comuníquese con el Acelerador de habilidades digitales de Wizeline](#vii---contact-wizelines-digital-skills-accelerator)
 
-Welcome to your Carrix Secure Coding training.
+# I - Bienvenido
 
-# II - General Training Information
+Bienvenido a su capacitación sobre codificación segura de Carrix.
 
-This Secure Coding training will equip you with the skills you need to be able to validate and track secure coding best practices, as well as to capture and detect secure coding vulnerabilities.
+# II - Información general sobre capacitación
 
-**Live Sessions Details**
+Esta capacitación en codificación segura lo equipará con las habilidades que necesita para poder validar y rastrear las mejores prácticas de codificación segura, así como capturar y detectar vulnerabilidades de codificación segura.
 
-- They are online classes (live) taught by Wizeline engineers, the sessions last 1.5 hours each session.
+**Detalles de las sesiones en vivo**
 
-Schedule:
+- Son clases online (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1,5 horas cada sesión.
 
-- **Assessment Kick Off : September 4th 2023**
-- **Assessment Period : From September 4th 2023 to September 26th 2023**
-- **Training Kick Off : September 27th 2023**
-- *Live Sessions : From October 2nd 2023 to December 6th 2023*
-- *Live Sessions Hours : Mondays and Wednesdays (each week) from 5:00 PM CST to 6:30 PM CST*
+Cronograma:
 
-- During online sessions it is suggested to have the camera on at all times.
+- **Inicio de la evaluación: 4 de septiembre de 2023**
+- **Período de evaluación: Del 4 de septiembre de 2023 al 26 de septiembre de 2023**
+- **Inicio del entrenamiento: 27 de septiembre de 2023**
+- *Sesiones en vivo: del 2 de octubre de 2023 al 6 de diciembre de 2023*
+- *Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST*
 
-- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : dsa-carrix@wizeline.com
+- Durante las sesiones online se sugiere tener la cámara encendida en todo momento.
 
-**On-Demand Mentoring**
+- Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia para contactar a Wizeline Digital Skills Accelerator correo electrónico: dsa-carrix@wizeline.com
 
-- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. [HERE](#-vi---schedule-your-on-demand-mentoring-session) are the instructions and links to request a session.
+**Tutoría bajo demanda**
 
-**Self-Study Resources/Articles**
+- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---programe-su-sesión-de-mentoria-bajo-demanda) están las instrucciones y enlaces para solicitar una sesión.
 
-- This is a compilation of resources (articles, videos, audios) that we will make available to you so that you can complement your learning.
+**Recursos/artículos de autoestudio**
+
+*Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje :*
 
 - [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
 - [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
 - [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
 
-**Capstone Project**
+**Proyecto final**
 
-- This will be a challenge created to put into practice the knowledge acquired during the training.
+- Este será un desafío creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
-# III - Calendar
+# III - Calendario
 
-In this calendar you will see the sessions that are scheduled during this training:
+En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
 <img width="1224" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/f009241c-4013-4c20-9f18-d9034e05f442">
 <img width="1227" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/ca3bff84-d695-4644-8299-0a4d425e2091">
 <img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
-<img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab"> 
+<img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab">
 
-# IV - Training Agenda
+# IV - Agenda de Capacitación
 
-**Syllabus**
+**Programa de estudios**
 
-You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/12346965/DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
-**Agenda Breakdown**
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579400/Espanol.DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
 
-Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
+**Desglose de la agenda**
 
-**Session Feedback**
+Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
 
-At the end of each live session, please fill our [Session Survey] to help us make your learning experience better.
+**Comentarios de la sesión**
 
-# TRAINING SCHEDULE
+Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
-**Opening session / Introduction**
-- *Date : Wednesday September 27th 2023*
-- *Instructor : DSA & SMEs*
-- [PDF / Material]
-- [Session Recording]
+# PROGRAMA DE ENTRENAMIENTO
 
-# MODULE 1
+**Sesión de Inicio / Introducción**
+- *Fecha: miércoles 27 de septiembre de 2023*
+- *Instructor: DSA y SMEs*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 1**
+# MÓDULO 1
 
-**Session 1 : Importance of application security**
-- *Date : Monday October 2nd 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 1**
 
-**Session 2 : Best practices in coding**
-- *Date : Wednesday October 4th 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 1: Importancia de la seguridad de las aplicaciones**
+- *Fecha: lunes 2 de octubre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 2**
+**Sesión 2: Mejores prácticas en codificación**
+- *Fecha: miércoles 4 de octubre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 3 : Secure coding practices**
-- *Date : Monday October 9th 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 2**
 
-**Session 4 : Software best practices**
-- *Date : Wednesday October 11th 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 3: Prácticas de codificación segura**
+- *Fecha: lunes 9 de octubre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-# MODULE 2
+**Sesión 4: Mejores prácticas de software**
+- *Fecha: miércoles 11 de octubre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 3**
+# MÓDULO 2
 
-**Session 5 : Secure coding principles**
-- *Date : Monday October 16th 2023*
-- *Instructor : Miguel Angel Martínez Reyes*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 3**
 
-**Session 6 : Input validation**
-- *Date : Wednesday October 18th 2023*
-- *Instructor : Miguel Angel Martínez Reyes*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 5: Principios de codificación segura**
+- *Fecha: lunes 16 de octubre de 2023*
+- *Instructor: Miguel Ángel Martínez Reyes*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 4**
+**Sesión 6: Validación de entradas**
+- *Fecha: miércoles 18 de octubre de 2023*
+- *Instructor: Miguel Ángel Martínez Reyes*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 7 : Authentication and authorization**
-- *Date : Monday October 23th 2023*
-- *Instructor : Miguel Angel Martínez Reyes*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 4**
 
-**Session 8 : Data protection standards**
-- *Date : Wednesday October 25th 2023*
-- *Instructor : Miguel Angel Martínez Reyes*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 7: Autenticación y autorización**
+- *Fecha: lunes 23 de octubre de 2023*
+- *Instructor: Miguel Ángel Martínez Reyes*
+- [PDF/Material]
+- [Grabación de sesión]
 
-# MODULE 3
+**Sesión 8: Estándares de protección de datos**
+- *Fecha: miércoles 25 de octubre de 2023*
+- *Instructor: Miguel Ángel Martínez Reyes*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 5**
+# MÓDULO 3
 
-**Session 9 : Cryptography**
-- *Date : Monday October 30th 2023*
-- *Instructor : Arturo Garcia Martin del Campo*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 5**
 
-**Session 10 : Risk assessment framework**
-- *Date : Wednesday November 1st 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 9: Criptografía**
+- *Fecha: lunes 30 de octubre de 2023*
+- *Instructor: Arturo García Martín del Campo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 6**
+**Sesión 10: Marco de evaluación de riesgos**
+- *Fecha: miércoles 1 de noviembre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 11 : Vulnerability categorization**
-- *Date : Monday November 6th 2023*
-- *Instructor : Mauricio Sotelo*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 6**
 
-**Session 12 : Identification of vulnerabilities**
-- *Date : Wednesday November 8th 2023*
-- *Instructor : Guillermo Esguerra Bautista*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 11: Categorización de vulnerabilidades**
+- *Fecha: lunes 6 de noviembre de 2023*
+- *Instructor: Mauricio Sotelo*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 7**
+**Sesión 12: Identificación de vulnerabilidades**
+- *Fecha: miércoles 8 de noviembre de 2023*
+- *Instructor: Guillermo Esguerra Bautista*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 13 : Mitigation and remediation of vulnerabilities**
-- *Date : Monday November 13th 2023*
-- *Instructor : Guillermo Esguerra Bautista*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 7**
 
-# MODULE 4
+**Sesión 13: Mitigación y remediación de vulnerabilidades**
+- *Fecha: lunes 13 de noviembre de 2023*
+- *Instructor: Guillermo Esguerra Bautista*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 7**
+# MÓDULO 4
 
-**Session 14 : Strengths & weaknesses in current tech stack (audit)**
-- *Date : Wednesday November 15th 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 7**
 
-**WEEK 8**
+**Sesión 14: Fortalezas y debilidades de la tecnología actual (auditoría)**
+- *Fecha: miércoles 15 de noviembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 15 : Documenting and diagramming**
-- *Date : Tuesday November 21st 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 8**
 
-**Session 16 : Recommending improvements**
-- *Date : Wednesday November 22nd 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 15: Documentar y diagramar**
+- *Fecha: Martes 21 de noviembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-# MODULE 5
+**Sesión 16: Recomendar mejoras**
+- *Fecha: miércoles 22 de noviembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 9**
+# MÓDULO 5
 
-**Session 17 : Optimizing development practices**
-- *Date : Monday November 27th 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 9**
 
-**Session 18 : Evaluating development environment**
-- *Date : Wednesday November 29th 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 17: Optimización de las prácticas de desarrollo**
+- *Fecha: lunes 27 de noviembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**WEEK 10**
+**Sesión 18: Evaluación del entorno de desarrollo**
+- *Fecha: miércoles 29 de noviembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-**Session 19 : Agile security best practices**
-- *Date : Monday December 4th 2023*
-- *Instructor : Grethel Bello Cagnant*
-- [PDF / Material]
-- [Session Recording]
+**SEMANA 10**
 
-**Session 20 : Capstone Project Deliverable**
-- *Date : December 6th 2023*
-- *Instructor : DSA & SMEs*
-- [PDF / Material]
-- [Session Recording]
+**Sesión 19: Mejores prácticas de seguridad ágil**
+- *Fecha: lunes 4 de diciembre de 2023*
+- *Instructora: Grethel Bello Cagnant*
+- [PDF/Material]
+- [Grabación de sesión]
 
-# V - Final Project (Capstone Project)
+**Sesión 20: Entregable del proyecto final**
+- *Fecha: 6 de diciembre de 2023*
+- *Instructor: DSA y SMEs*
+- [PDF/Material]
+- [Grabación de sesión]
 
-✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training. You can find the document with the Capstone Project breakdown and delivery dates over [HERE]
+# V - Proyecto Final (Proyecto Capstone)
 
-# 📆 VI - Schedule Your On-Demand Mentoring Session
+✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ]
 
-At any point of the training, you can request a 1:1 with an expert from Wizeline. Here is how:
+# 📆 VI - Programe su sesión de mentoria bajo demanda
 
-- Click on this [LINK] to access a form to schedule your mentoring session
-- Fill in all the fields with your information.
-- The DSA staff will review your request.
-- The DSA staff will setup the mentoring session based on your info and the mentor’s availability
-- If there are difficulties with schedule and availability, DSA staff will reach out to you to sort it out.
-- Join the call in the date and time scheduled
-- Once the meeting finishes, fill in [THIS] feedback form at the end of your tutorial
+En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
 
-Important:
+- Haga clic en alguno de los siguientes enlaces para acceder al calendario para programar su sesión de mentoria
 
-If you can’t take the meeting, please send an email to dsa-carrix@wizeline.com 
-If you are running late, please send a message on Teams to let him know.
-Mentors will only wait for 10 min if no notification is given and then log of from the call.
-If you still need the session, please book another session following same procedure. 
+| MENTOR | AGENDAR MENTORIA |
+| ------ | ----- |
+| Grethel Bello Cagnant |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
+| Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
 
-# VII - Contact Wizeline's Digital Skills Accelerator
+- Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
+- Unirse a la mentoria en la fecha y hora previstas.
+- Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y comunicar al SME con la fecha deseada.
+- Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
 
-If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
+Importante:
 
-📧 Email: dsa-carrix@wizeline.com
+Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
+Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
+Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
+Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
+
+# VII - Póngase en contacto con el Acelerador de Habilidades Digitales de Wizeline
+
+Si tiene alguna pregunta sobre el programa, logística, acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
+
+📧 Correo electrónico: dsa-carrix@wizeline.com
