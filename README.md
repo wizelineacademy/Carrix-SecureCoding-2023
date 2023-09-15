@@ -57,10 +57,8 @@ Cronograma:
 
 En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
-<img width="1224" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/f009241c-4013-4c20-9f18-d9034e05f442">
-<img width="1227" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/ca3bff84-d695-4644-8299-0a4d425e2091">
-<img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
-<img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab">
+<img width="1256" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/2bbec8df-a0a8-41b5-b991-f637d76a1eb6">
+<img width="1256" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/9513b57d-a26f-42bf-9595-e46706f74310">
 
 # IV - Agenda del Entrenamiento
 
@@ -79,7 +77,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 # Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
-- *Fecha: miércoles 27 de septiembre de 2023*
+- *Fecha: lunes 13 de noviembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -88,149 +86,51 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 **SEMANA 1**
 
-**Sesión 1: Importancia de la seguridad de las aplicaciones**
-- *Fecha: lunes 2 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 2: Mejores prácticas en codificación**
-- *Fecha: miércoles 4 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 2**
-
-**Sesión 3: Prácticas de codificación segura**
-- *Fecha: lunes 9 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 4: Mejores prácticas de software**
-- *Fecha: miércoles 11 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-# Modulo 2
-
-**SEMANA 3**
-
-**Sesión 5: Principios de codificación segura**
-- *Fecha: lunes 16 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 6: Validación de entradas**
-- *Fecha: miércoles 18 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 4**
-
-**Sesión 7: Autenticación y autorización**
-- *Fecha: lunes 23 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 8: Estándares de protección de datos**
-- *Fecha: miércoles 25 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
-
-# Modulo 3
-
-**SEMANA 5**
-
-**Sesión 9: Criptografía**
-- *Fecha: lunes 30 de octubre de 2023*
-- *Instructor: Arturo García Martín del Campo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 10: Marco de evaluación de riesgos**
-- *Fecha: miércoles 1 de noviembre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 6**
-
-**Sesión 11: Categorización de vulnerabilidades**
-- *Fecha: lunes 6 de noviembre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 12: Identificación de vulnerabilidades**
-- *Fecha: miércoles 8 de noviembre de 2023*
-- *Instructor: Guillermo Esguerra Bautista*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 7**
-
-**Sesión 13: Mitigación y remediación de vulnerabilidades**
-- *Fecha: lunes 13 de noviembre de 2023*
-- *Instructor: Guillermo Esguerra Bautista*
-- [PDF/Material]
-- [Grabación de sesión]
-
-# MÓDULO 4
-
-**SEMANA 7**
-
-**Sesión 14: Fortalezas y debilidades de la tecnología actual (auditoría)**
+**Sesión 1: Fortalezas y debilidades de la tecnología actual (auditoría)**
 - *Fecha: miércoles 15 de noviembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**SEMANA 8**
+**SEMANA 2**
 
-**Sesión 15: Documentar y diagramar**
+**Sesión 2: Documentar y diagramar**
 - *Fecha: Martes 21 de noviembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 16: Recomendar mejoras**
+**Sesión 3: Recomendar mejoras**
 - *Fecha: miércoles 22 de noviembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 5
+# Molduo 2
 
-**SEMANA 9**
+**SEMANA 3**
 
-**Sesión 17: Optimización de las prácticas de desarrollo**
+**Sesión 4: Optimización de las prácticas de desarrollo**
 - *Fecha: lunes 27 de noviembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 18: Evaluación del entorno de desarrollo**
+**Sesión 5: Evaluación del entorno de desarrollo**
 - *Fecha: miércoles 29 de noviembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**SEMANA 10**
+**SEMANA 4**
 
-**Sesión 19: Mejores prácticas de seguridad ágil**
+**Sesión 6: Mejores prácticas de seguridad ágil**
 - *Fecha: lunes 4 de diciembre de 2023*
 - *Instructora: Grethel Bello Cagnant*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 20: Entregable del proyecto final**
+**Sesión 7: Entregable del proyecto final**
 - *Fecha: 6 de diciembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
