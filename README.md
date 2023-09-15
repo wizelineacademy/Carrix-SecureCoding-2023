@@ -106,7 +106,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# Molduo 2
+# Modulo 2
 
 **SEMANA 3**
 
