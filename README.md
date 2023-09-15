@@ -6,18 +6,18 @@ Tabla de contenido
 ==================
 
 * [I - Bienvenido](#i---bienvenido)
-* [II - Información general de capacitación](#ii---información-general-de-capacitación)
+* [II - Información general del Entrenamiento](#ii---información-general-del-entrenamiento)
 * [III - Calendario](#iii---calendario)
-* [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
+* [IV - Agenda del Entrenamiento](#iv---agenda-del-entrenamiento)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
-* [VI - Programe su sesión de tutoría bajo demanda](#-vi---programe-su-sesión-de-mentoria-bajo-demanda)
-* [VII. Comuníquese con el Acelerador de habilidades digitales de Wizeline](#vii---contact-wizelines-digital-skills-accelerator)
+* [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
+* [VII. Comuníquese con Digital Skills Accelerator](#vii---comuníquese-con-digital-skills-accelerator)
 
 # I - Bienvenido
 
 Bienvenido a su capacitación sobre codificación segura de Carrix.
 
-# II - Información general sobre capacitación
+# II - Información general del Entrenamiento
 
 Esta capacitación en codificación segura lo equipará con las habilidades que necesita para poder validar y rastrear las mejores prácticas de codificación segura, así como capturar y detectar vulnerabilidades de codificación segura.
 
@@ -62,7 +62,7 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 <img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
 <img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab">
 
-# IV - Agenda de Capacitación
+# IV - Agenda del Entrenamiento
 
 **Programa de estudios**
 
@@ -76,7 +76,7 @@ Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
 
 Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
-# PROGRAMA DE ENTRENAMIENTO
+# Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
 - *Fecha: miércoles 27 de septiembre de 2023*
@@ -84,7 +84,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 1
+# Modulo 1
 
 **SEMANA 1**
 
@@ -114,7 +114,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 2
+# Modulo 2
 
 **SEMANA 3**
 
@@ -144,7 +144,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 3
+# Modulo 3
 
 **SEMANA 5**
 
@@ -240,7 +240,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ]
 
-# 📆 VI - Programe su sesión de mentoria bajo demanda
+# 📆 VI - Solicita Tu Mentoria
 
 En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
 
@@ -253,17 +253,17 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 - Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
 - Unirse a la mentoria en la fecha y hora previstas.
-- Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y comunicar al SME con la fecha deseada.
+- Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 - Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
 
 Importante:
 
-Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
-Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
-Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
-Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
+- Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
+- Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
+- Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
+- Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 
-# VII - Póngase en contacto con el Acelerador de Habilidades Digitales de Wizeline
+# VII - Comuníquese con Digital Skills Accelerator
 
 Si tiene alguna pregunta sobre el programa, logística, acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
