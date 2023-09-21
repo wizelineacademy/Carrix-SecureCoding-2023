@@ -146,17 +146,15 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 - Haga clic en alguno de los siguientes enlaces para acceder al calendario para programar su sesión de mentoria
 
-| MENTOR | AGENDAR MENTORIA |
-| ------ | ----- |
-| Grethel Bello Cagnant |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
-| Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
-| Josias Rico Garcia|	[AQUI](https://calendly.com/josias-rico/dsa-carrix-mentorias) |
-| Angel Martinez Reyes |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
+| MENTOR | MODULO | AGENDAR MENTORIA |
+| ------ | ----- | ----- |
+| Grethel Bello Cagnant | Modulo 4 & 5 |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
 
-- Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
+- Al agendar la sesión recibirás toda la información necesaria para poder unirse a la sesión de mentoría.
+- Es necesario que al agendar tu sesión de mentoría, se deberá incluir el tema y/o dudas que se tratarán durante la sesión, con la intención de saber de antemano en qué temas necesitas ayuda.
 - Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
-- Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
+- Una vez que finalice la reunión, complete [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de su tutorial.
 
 Importante:
 
