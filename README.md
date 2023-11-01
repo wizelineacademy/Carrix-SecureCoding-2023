@@ -184,3 +184,4 @@ Importante:
 Si tiene alguna pregunta sobre el programa, logística, acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
 📧 Correo electrónico: dsa-carrix@wizeline.com
+- Comunicacion Instantanea [Slack](https://wizelineacademy.slack.com/archives/C063PM49TQB)
