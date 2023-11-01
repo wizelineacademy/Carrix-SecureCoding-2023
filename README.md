@@ -39,14 +39,14 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - Retroalimentación a Mitad del Entrenamiento : Martes 28 de Noviembre 2023
 - **Fin del Entrenamiento : Miércoles 6 de Diciembre 2023**
 - **Presentacion Proyecto Final  : Jueves 7 de Diciembre 2023**
-Retroalimentación Final del Entrenamiento : Viernes 8 de Diciembre 2023
+- Retroalimentación Final del Entrenamiento : Viernes 8 de Diciembre 2023
 
 **Onboarding GitHub**
 
 - Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
 
 **Fechas, Horarios y Liga de Onboarding GitHub**
-- 14 de Noviembre 2023 : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
+- Martes 14 de Noviembre 2023 : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
 
 **Mentorias**
 
