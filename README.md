@@ -69,9 +69,8 @@ Retroalimentación Final del Entrenamiento : Viernes 8 de Diciembre 2023
 
 En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
-![1](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/b44512ce-0f2c-4cda-8e6f-fcb42d0c0cc3)
-![2](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/7698916c-0fc8-4781-bd58-0b351d7ff289)
-![3](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/31487a6c-f775-4a9a-a51c-2bc001ee3aa8)
+<img width="1255" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/bf266e06-7eae-4297-a6d6-9e12cd9fdd00">
+<img width="1253" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/db6f8c0b-7e1d-4079-beac-0d7459bb2a81">
 
 # IV - Agenda del Entrenamiento
 
