@@ -29,30 +29,24 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 - **Inicio de la evaluación :** 8 de septiembre de 2023
 - **Período de evaluación :** 12 de septiembre de 2023 al 15 de septiembre de 2023
-- **Presentacion Inicial :** 28 de septiembre de 2023
-- **Sesiones en vivo :** 2 de octubre de 2023 al 13 de Noviembre de 2023
+- **Sesiones en vivo :** Lunes 15 de Noviembre 2023 al Miercoles 6 de Diciembre 2023
 - **Horario de sesiones en vivo :** Lunes y Miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
 
 **Fechas Importantes**
 
-- **Sesión Informativa Pre-Entrenamiento :** Jueves 28 de Septiembre 2023
-- **Inicio del Entrenamiento :** Lunes 2 de Octubre 2023
-- **Retroalimentación a Mitad del Entrenamiento :** Martes 24 de Octubre 2023
-- 1er Entregable Proyecto Final : 13 de Octubre 2023
-- 2ndo Entregable Proyecto Final : 3 de Noviembre 2023
-- Fin del Entrenamiento : 13 de Noviembre 2023
-- 3er Entregable Proyecto Final : 17 de Noviembre 2023
-- Presentacion Proyecto Final  : 21 de Noviembre 2023
-- Retroalimentación Final del Entrenamiento :  22 de Noviembre 2023
+- **Sesión Informativa Pre-Entrenamiento : Lunes 13 de Noviembre 2023**
+- **Inicio del Entrenamiento : Miércoles 15 de Noviembre 2023**
+- Retroalimentación a Mitad del Entrenamiento : Martes 28 de Noviembre 2023
+- **Fin del Entrenamiento : Miércoles 6 de Diciembre 2023**
+- **Presentacion Proyecto Final  : Jueves 7 de Diciembre 2023**
+Retroalimentación Final del Entrenamiento : Viernes 8 de Diciembre 2023
 
 **Onboarding GitHub**
 
 - Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
 
 **Fechas, Horarios y Liga de Onboarding GitHub**
-- 3 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
-- 5 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81665524763?pwd=dKKSjo3fFualBaiFdjdCu5VhtHoMi3.1)
-- 6 de Octubre 2023 : 11:00 - 12:30 PM [Zoom](https://wizeline.zoom.us/j/87523154939?pwd=xy8ING8LubdgNfHZPOb2tqqTAblLMj.1)
+- 14 de Noviembre 2023 : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
 
 **Mentorias**
 
@@ -65,9 +59,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 *Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje :*
 
-- [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
-- [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
-- [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
+
 
 **Proyecto final**
 
@@ -96,106 +88,64 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 # Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
-- *Fecha: jueves 28 de septiembre de 2023*
+- *Fecha: Lunes 13 de Noviembre 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
 
-# Modulo 1
+# Modulo 1 : Revisión de tecnología y arquitectura
 
 **SEMANA 1**
 
-**Sesión 1: Importancia de la seguridad de las aplicaciones**
-- *Fecha: lunes 2 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 2: Mejores prácticas en codificación**
-- *Fecha: miércoles 4 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
+**Sesión 1 : Fortalezas y debilidades de la tecnología actual (auditoría)**
+- *Fecha: Miercoles 15 de Noviembre de 2023*
+- *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **SEMANA 2**
 
-**Sesión 3: Prácticas de codificación segura**
-- *Fecha: lunes 9 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
+**Sesión 2 : Documentar y diagramar Pt I**
+- *Fecha: Lunes 20 de Noviembre 20233*
+- *Instructor: Silvia Alvarado*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 4: Mejores prácticas de software**
-- *Fecha: miércoles 11 de octubre de 2023*
-- *Instructor: Mauricio Sotelo*
+**Sesión 2 : Documentar y diagramar Pt II**
+- *Fecha: Miercoles 22 de Noviembre 20233*
+- *Instructor: Silvia Alvarado*
 - [PDF/Material]
 - [Grabación de sesión]
-
-# Modulo 2
 
 **SEMANA 3**
 
-**Sesión 5: Principios de codificación segura**
-- *Fecha: lunes 16 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
+**Sesión 4 : Recomendar mejoras**
+- *Fecha: Lunes 27 de Noviembre 2023*
+- *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 6: Validación de entradas**
-- *Fecha: miércoles 18 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
+# Modulo 2 : Prácticas y estándares de desarrollo
+
+**SEMANA 3**
+
+**Sesión 5 : Optimización de las prácticas de desarrollo**
+- *Fecha: Miercoles 29 de Noviembre 2023*
+- *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **SEMANA 4**
 
-**Sesión 7: Autenticación y autorización**
-- *Fecha: lunes 23 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
+**Sesión 6 : Evaluación del entorno de desarrollo**
+- *Fecha: Lunes 4 de Diciembre 2023*
+- *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 8: Estándares de protección de datos**
-- *Fecha: miércoles 25 de octubre de 2023*
-- *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
-
-# Modulo 3
-
-**SEMANA 5**
-
-**Sesión 9: Criptografía**
-- *Fecha: lunes 30 de octubre de 2023*
-- *Instructor: Arturo García Martín del Campo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 10: Marco de evaluación de riesgos**
-- *Fecha: miércoles 1 de noviembre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 6**
-
-**Sesión 11: Categorización de vulnerabilidades**
-- *Fecha: lunes 6 de noviembre de 2023*
-- *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 12: Identificación de vulnerabilidades**
-- *Fecha: miércoles 8 de noviembre de 2023*
-- *Instructor: Guillermo Esguerra Bautista*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 7**
-
-**Sesión 13: Mitigación y remediación de vulnerabilidades**
-- *Fecha: lunes 13 de noviembre de 2023*
-- *Instructor: Guillermo Esguerra Bautista*
+**SSesión 7 : Mejores prácticas de seguridad ágil**
+- *Fecha: Miercoles 6 de Diciembre 2023*
+- *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
