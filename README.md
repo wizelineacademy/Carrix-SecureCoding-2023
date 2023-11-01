@@ -76,7 +76,7 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 **Programa del entrenamiento**
 
-- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12732344/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
+- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
@@ -150,7 +150,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 
 **Comentarios de la sesión**
 
-Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
+Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLSed0S_MdOiM_0AESVQ4DxQg0EvpSoq16bwP_HcQXRgq1CPZWA/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
 # V - Proyecto Final (Proyecto Capstone)
 
@@ -170,7 +170,7 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 - Es necesario que al agendar tu sesión de mentoría, se deberá incluir el tema y/o dudas que se tratarán durante la sesión, con la intención de saber de antemano en qué temas necesitas ayuda.
 - Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
-- Una vez que finalice la reunión, complete [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de su tutorial.
+- Una vez que finalice la reunión, complete [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSemUDElVrRV5ODBsLKrXHC0hYGDH9tPdbmwczRCINQT78EUvQ/viewform) formulario de comentarios al final de su tutorial.
 
 Importante:
 
