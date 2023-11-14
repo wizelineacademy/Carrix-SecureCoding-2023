@@ -154,7 +154,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ]
+✴️ Este proyecto final se centra en mostrar y conocer los recursos y herramientas utilizadas por líderes de equipos de desarrollo de software con enfoque específico en el desarrollo de software seguro. Utilizando herramientas de organización y colaborativas con la finalidad de ampliar la capacidad de priorizar y asignar tareas específicas a los equipos de desarrollo.. Puede encontrar el documento con el desglose del Proyecto Final [AQUÍ]
 
 # 📆 VI - Solicita Tu Mentoria
 
