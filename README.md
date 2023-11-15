@@ -41,17 +41,11 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - **Presentacion Proyecto Final  : Jueves 7 de Diciembre 2023**
 - Retroalimentación Final del Entrenamiento : Viernes 8 de Diciembre 2023
 
-**Onboarding GitHub**
-
-- Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
-
-**Fechas, Horarios y Liga de Onboarding GitHub**
-- Martes 14 de Noviembre 2023 : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
-
 **Mentorias**
 
 - Las mentorías son un espacio de 1 hora donde podrás resolver y despejar dudas sobre temas cubiertos en cualquiera de las sesiones impartidas. Podrás programar las mentorías con base en la disponibilidad de los mentores de Wizeline. 
-- Cada semana, los mentores estarán actualizando sus espacios de tiempo de acuerdo a su disponibilidad y los temas que se abordarán en la semana de entrenamiento. 
+- Cada semana, los mentores estarán actualizando sus espacios de tiempo de acuerdo a su disponibilidad y los temas que se abordarán en la semana de entrenamiento.
+- En caso de ser neceario, contaremos con mentorias grupales con el fin de responder dudas y preguntas en comun de manera colectiva.
 
 [AQUI](#-vi---solicita-tu-mentoria) encontraras las instrucciones y enlaces para solicitar una sesión.
 
@@ -61,7 +55,8 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 [New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
 
-*A continuacion te compartimos los temas que se revisaron en el entrenameitno de los Devs*
+*A continuacion te compartimos los temas que se impartieron en el entrenamiento de los Devs*
+
 [Entrenamiento Devs DSA-Carrix](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023)
 
 
