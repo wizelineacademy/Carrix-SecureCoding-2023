@@ -59,6 +59,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 *Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje :*
 
+[New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
 
 
 **Proyecto final**
