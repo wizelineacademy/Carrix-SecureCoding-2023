@@ -62,7 +62,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 [New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
 
 *A continuacion te compartimos los temas que se revisaron en el entrenameitno de los Devs*
-[Entrenamiento Devs DSA-Carrix]
+[Entrenamiento Devs DSA-Carrix](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023)
 
 
 **Proyecto final**
