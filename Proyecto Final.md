@@ -9,17 +9,19 @@
 
 -Excelencia Operativa :
 
-¿Cómo garantizamos que cada versión cumpla con la calidad requerida?
-¿Qué tan tardado es hacer un release?
-¿Cómo monitoreamos el estado del sistema?
-¿Cuál es la estrategía para dar seguimiento a los errores reportados?
-¿Qué tan fácil es hacer cambios de infraestructura?
+- ¿Cómo garantizamos que cada versión cumpla con la calidad requerida?
+- ¿Qué tan tardado es hacer un release?
+- ¿Cómo monitoreamos el estado del sistema?
+- ¿Cuál es la estrategía para dar seguimiento a los errores reportados?
+- ¿Qué tan fácil es hacer cambios de infraestructura?
+
 Seguridad
-¿Qué mecanismos de autenticación están implementados?
-¿Cómo podemos trazar el flujo de la información y sus accesos?
-¿Qué seguridad está implementada en front end, back end y comunicación con terceros?
-¿Qué estándares de protección de datos debemos seguir?
-¿Cuáles son los riesgos identificados?
+
+- ¿Qué mecanismos de autenticación están implementados?
+- ¿Cómo podemos trazar el flujo de la información y sus accesos?
+- ¿Qué seguridad está implementada en front end, back end y comunicación con terceros?
+- ¿Qué estándares de protección de datos debemos seguir?
+- ¿Cuáles son los riesgos identificados?
 
 Fiabilidad
 
