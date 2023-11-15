@@ -7,7 +7,7 @@
 
 **Analizar la arquitectura propuesta de acuerdo a los pilares del Well-Architected Framework**
 
--Excelencia Operativa :
+Excelencia Operativa
 
 - ¿Cómo garantizamos que cada versión cumpla con la calidad requerida?
 - ¿Qué tan tardado es hacer un release?
@@ -25,26 +25,30 @@ Seguridad
 
 Fiabilidad
 
-Si perdiéramos las bases de datos, ¿qué plan de recuperación tenemos?
-¿Cuál es la cadena de comunicación y medios en caso de errores?
-¿Cuáles son las expectativas de rendimiento de los sistemas?
-¿Cómo monitoreamos el rendimiento del sistema?
+- Si perdiéramos las bases de datos, ¿qué plan de recuperación tenemos?
+- ¿Cuál es la cadena de comunicación y medios en caso de errores?
+- ¿Cuáles son las expectativas de rendimiento de los sistemas?
+- ¿Cómo monitoreamos el rendimiento del sistema?
+
 Eficacia del rendimiento
-¿Cuáles son los recursos que requiere el sistema?
-¿Qué disponibilidad podemos garantizar para el sistema?
-¿Hay partes del sistema que podrían representar menos riesgo si se consumieran como servicio?
+
+- ¿Cuáles son los recursos que requiere el sistema?
+- ¿Qué disponibilidad podemos garantizar para el sistema?
+- ¿Hay partes del sistema que podrían representar menos riesgo si se consumieran como servicio?
+
 Optimización de costos
-¿Cuál es el costo operacional del sistema?
-¿Cómo se monitorean los costos mensualmente?
-¿Hay estrategias para alertar en el incremento o decremento de los costos?
+
+- ¿Cuál es el costo operacional del sistema?
+- ¿Cómo se monitorean los costos mensualmente?
+- ¿Hay estrategias para alertar en el incremento o decremento de los costos?
+
 Diagrama tu solución para complementar tu análisis
-Mostrar el costo de implementar o no implementar tu solución, así como las etapas en las que puede ser dividido
-Integrar ambiente de desarrollo y CI/CD en la solución
-Crear los epics y tareas siguiendo una estrategia ágil de los cambios que se requieren hacer para implementar la solución de tu análisis
-Para crear epics click en el + del botón verde -> New Epic
 
-*Llenar los datos*
-
+- Mostrar el costo de implementar o no implementar tu solución, así como las etapas en las que puede ser dividido
+- Integrar ambiente de desarrollo y CI/CD en la solución
+- Crear los epics y tareas siguiendo una estrategia ágil de los cambios que se requieren hacer para implementar la solución de tu análisis
+- Para crear epics click en el + del botón verde -> New Epic
+- Llenar los datos requeridos
 - Para crear una tarea, empieza a escribir en el campo Add task y enter
 - Abre la tarea para agregar más información
 - En el overview se puede asignar el epic al que pertenece
