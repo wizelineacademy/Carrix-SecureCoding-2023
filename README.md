@@ -77,13 +77,13 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 **Programa del entrenamiento**
 
-- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
+- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358924/Leads.Documento.Informativo.Secure.Coding.Training._.Q3-2023._.DSA.Carrix.pdf)
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
 **Desglose del entrenamiento**
 
-El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de Noviembre 2023. Los 3 módulos y 13 sesiones del entrenamiento se desglosan en los siguientes temas:
+El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de Diciembre de 2023. Los 2 módulos y 7 sesiones del entrenamiento se desglosan en los siguientes temas:
 
 # Programa del Entrenamiento
 
