@@ -61,6 +61,9 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 [New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
 
+*A continuacion te compartimos los temas que se revisaron en el entrenameitno de los Devs*
+[Entrenamiento Devs DSA-Carrix]
+
 
 **Proyecto final**
 
@@ -90,8 +93,7 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 **Sesión de Inicio / Introducción**
 - *Fecha: Lunes 13 de Noviembre 2023*
 - *Instructor: DSA y SMEs*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358937/Leads.Kick.Off._.Secure.Coding.Training._.Q3-2023._.DSA.Carrix.pptx.pdf)
 
 # Modulo 1 : Revisión de tecnología y arquitectura
 
