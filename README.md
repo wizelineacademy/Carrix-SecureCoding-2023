@@ -57,7 +57,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 *A continuacion te compartimos los temas que se impartieron en el entrenamiento de los Devs*
 
-[Entrenamiento Devs DSA-Carrix](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023)
+[Entrenamiento Developers DSA-Carrix](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023)
 
 
 **Proyecto final**
