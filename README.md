@@ -155,7 +155,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Este proyecto final se centra en mostrar y conocer los recursos y herramientas utilizadas por líderes de equipos de desarrollo de software con enfoque específico en el desarrollo de software seguro. Utilizando herramientas de organización y colaborativas con la finalidad de ampliar la capacidad de priorizar y asignar tareas específicas a los equipos de desarrollo.. Puede encontrar el documento con el desglose del Proyecto Final [AQUÍ](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13343211/Leads.Capstone.Project._.Secure.Coding.Training._.Q3-2023._.DSA.Carrix.pdf)
+✴️ Este proyecto final se centra en mostrar y conocer los recursos y herramientas utilizadas por líderes de equipos de desarrollo de software con enfoque específico en el desarrollo de software seguro. Utilizando herramientas de organización y colaborativas con la finalidad de ampliar la capacidad de priorizar y asignar tareas específicas a los equipos de desarrollo.. Puede encontrar el documento con el desglose del Proyecto Final [AQUÍ](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358896/Leads.Capstone.Project._.Secure.Coding.Training._.Q3-2023._.DSA.Carrix.v1.0.pdf)
 
 # 📆 VI - Solicita Tu Mentoria
 
