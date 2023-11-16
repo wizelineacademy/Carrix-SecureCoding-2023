@@ -98,7 +98,7 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 - *Fecha: Miercoles 15 de Noviembre de 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/riJNNBzO7PA)
 
 **SEMANA 2**
 
