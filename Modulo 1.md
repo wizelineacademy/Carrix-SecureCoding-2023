@@ -3,8 +3,8 @@
 **Sesión 1 : Fortalezas y debilidades de la tecnología actual (auditoría)**
 - *Fecha: Miercoles 15 de Noviembre de 2023*
 - *Instructor: Grethel Bello*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13384861/Sesion.1.-.Fortalezas.y.Debilidades.de.la.Tecnologia.Actual.pdf)
+- [Grabación de sesión](https://youtu.be/riJNNBzO7PA)
 
 **SEMANA 2**
 
