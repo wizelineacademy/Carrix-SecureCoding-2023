@@ -102,7 +102,7 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 
 **SEMANA 2**
 
-**Sesión 2 : Documentar y diagramar Pt I**
+**Sesión 2 : Documentar y Diagramar Pt I**
 - *Fecha: Lunes 20 de Noviembre 20233*
 - *Instructor: Silvia Alvarado*
 - [PDF/Material]
