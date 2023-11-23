@@ -11,14 +11,14 @@
 **Sesión 2 : Documentar y Diagramar Pt I**
 - *Fecha: Lunes 20 de Noviembre 20233*
 - *Instructor: Silvia Alvarado*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13445415/Diagramar.y.Documentar.pdf)
 - [Grabación de sesión](https://youtu.be/pazzVVBe2Q4)
 
-**Sesión 2 : Documentar y diagramar Pt II**
+**Sesión 3 : Documentar y diagramar Pt II**
 - *Fecha: Miercoles 22 de Noviembre 20233*
 - *Instructor: Silvia Alvarado*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13445415/Diagramar.y.Documentar.pdf)
+- [Grabación de sesión](https://youtu.be/4RcaQFGjSzw)
 
 **SEMANA 3**
 
