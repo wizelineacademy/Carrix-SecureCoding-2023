@@ -22,8 +22,8 @@
 
 **SEMANA 3**
 
-**Sesión 4 : Recomendar mejoras**
+**Sesión 4 : Recomendaciones de Mejoras**
 - *Fecha: Lunes 27 de Noviembre 2023*
 - *Instructor: Grethel Bello*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13482811/Sesion.4.pdf)
+- [Grabación de sesión](https://youtu.be/5iwYlLt2Af0)
