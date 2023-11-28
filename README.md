@@ -116,11 +116,11 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 
 **SEMANA 3**
 
-**Sesión 4 : Recomendar mejoras**
+**Sesión 4 : Recomendar Mejoras**
 - *Fecha: Lunes 27 de Noviembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/5iwYlLt2Af0)
 
 # Modulo 2 : Prácticas y estándares de desarrollo
 
