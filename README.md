@@ -49,13 +49,14 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 [AQUI](#-vi---solicita-tu-mentoria) encontraras las instrucciones y enlaces para solicitar una sesión.
 
-**Recursos/artículos de autoestudio**
+# II.2 - Recursos/artículos de Autoestudio
 
 *Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje :*
 
-[New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
+- [New Tech Stack](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13358881/New.Tech.Stack.pdf)
+- [Versionamiento de Documentos](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13506231/Versionamiento.de.documentos._.Carrix._.DSA._.Wizeline.pdf)
 
-*A continuacion te compartimos los temas que se impartieron en el entrenamiento de los Devs*
+*Como referencia, a continuacion te compartimos los temas que se impartieron en el entrenamiento de los Devs*
 
 [Entrenamiento Developers DSA-Carrix](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023)
 
