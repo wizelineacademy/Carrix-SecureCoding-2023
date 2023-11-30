@@ -123,7 +123,7 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 **Sesión 5 : Optimización de las prácticas de desarrollo**
 - *Fecha: Miercoles 29 de Noviembre 2023*
 - *Instructor: Grethel Bello*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13514761/Sesion.5.-.Optimizacion.de.Practicas.de.Desarrollo.pdf)
 - [Grabación de sesión]
 
 **SEMANA 4**
