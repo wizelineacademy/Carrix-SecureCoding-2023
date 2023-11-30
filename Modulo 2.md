@@ -3,8 +3,8 @@
 **Sesión 5 : Optimización de las prácticas de desarrollo**
 - *Fecha: Miercoles 29 de Noviembre 2023*
 - *Instructor: Grethel Bello*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13514761/Sesion.5.-.Optimizacion.de.Practicas.de.Desarrollo.pdf)
+- [Grabación de sesión](https://youtu.be/SAGZug-rkoI)
 
 **SEMANA 4**
 
