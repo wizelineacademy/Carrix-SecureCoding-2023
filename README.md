@@ -129,13 +129,13 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 **SEMANA 4**
 
 **Sesión 6 : Evaluación del entorno de desarrollo**
-- *Fecha: Lunes 4 de Diciembre 2023*
+- *Fecha: Miercoles 6 de Diciembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **SSesión 7 : Mejores prácticas de seguridad ágil**
-- *Fecha: Miercoles 6 de Diciembre 2023*
+- *Fecha: Jueves 7 de Diciembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
 - [Grabación de sesión]
