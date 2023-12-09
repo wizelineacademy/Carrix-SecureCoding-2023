@@ -134,7 +134,7 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 - [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13622034/Sesion.6.pdf)
 - [Grabación de sesión](https://youtu.be/P0zx4jwH81c)
 
-**SSesión 7 : Mejores Prácticas de Deguridad Agil**
+**Sesión 7 : Mejores Prácticas de Seguridad Ágil**
 - *Fecha: Jueves 7 de Diciembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/13622036/Sesion.7.pdf)
