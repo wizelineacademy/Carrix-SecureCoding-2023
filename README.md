@@ -132,13 +132,13 @@ El periodo del entrenamiento será del día 15 de Noviembre de 2023 al día 6 de
 - *Fecha: Miercoles 6 de Diciembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/P0zx4jwH81c)
 
 **SSesión 7 : Mejores prácticas de seguridad ágil**
 - *Fecha: Jueves 7 de Diciembre 2023*
 - *Instructor: Grethel Bello*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/jgTNXVHJa8k)
 
 **Comentarios de la sesión**
 
